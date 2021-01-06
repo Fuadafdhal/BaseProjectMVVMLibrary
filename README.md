@@ -21,6 +21,6 @@ allprojects {
 Add the dependency
 
 dependencies {
-	        implementation 'com.github.Fuadafdhal:Base-Project-Library:Tag'
+	         implementation 'com.github.Fuadafdhal:Base-Project-Library:1.0'
 	}
 ```
