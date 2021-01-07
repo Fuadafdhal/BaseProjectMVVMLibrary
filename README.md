@@ -5,7 +5,7 @@
 <p align="center">
     <a><img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg?style=flat"></a>
     <a><img src="https://img.shields.io/badge/Koltin-Suport-green?logo=kotlin&style=flat"></a>
-    <a href="https://github.com/Fuadafdhal"><img src="https://img.shields.io/github/followers/gzeinnumer?label=follow&style=social"></a>
+    <a href="https://github.com/Fuadafdhal"><img src="https://img.shields.io/github/followers/Fuadafdhal?label=follow&style=social"></a>
 </p>
 
 ---
