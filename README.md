@@ -30,8 +30,8 @@
  ```
 
  ## Feature List
- - [x] **Simpel for make initial viewmodel for fragment and actifity**.
- - [x] **Simpel for make initial viewmodel plus toolbar for fragment and actifity**.
+ - [x] **Simpel for make initial viewmodel for fragment and activity**.
+ - [x] **Simpel for make initial viewmodel plus toolbar for fragment and activity**.
 
  ## Tech stack and 3rd library
  - ViewModel ([docs](https://developer.android.com/topic/libraries/architecture/viewmodel))
