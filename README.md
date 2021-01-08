@@ -23,7 +23,7 @@
  // build.gradle app/module
  dependencies {
      ...
-     implementation 'com.github.Fuadafdhal:BaseProjectMVVMLibrary:1.0'
+     implementation 'com.github.Fuadafdhal:BaseProjectMVVMLibrary:1.0.0'
      implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
      implementation 'androidx.recyclerview:recyclerview:1.1.0'
  }
